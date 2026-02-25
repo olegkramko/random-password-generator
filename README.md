@@ -1,2 +1,2 @@
 # random-password-generator
-Random Password Generator with UI
+Desktop Random Password Generator with GUI
